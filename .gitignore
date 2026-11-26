@@ -8,5 +8,9 @@
 *.bin
 *.image
 *.gns3project
-**_log.txt
+*_log.txt
 *.zip
+*.log
+*_slot*
+*_ssa
+*_rommon_vars
