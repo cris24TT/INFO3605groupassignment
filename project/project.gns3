@@ -292,8 +292,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"1740\" height=\"1770\"><rect width=\"1740\" height=\"1770\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -906,
-                "y": 613,
+                "x": -892,
+                "y": 617,
                 "z": -1
             },
             {
@@ -16378,5 +16378,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.61",
-    "zoom": 40
+    "zoom": 20
 }
