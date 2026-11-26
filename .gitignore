@@ -1,0 +1,12 @@
+*_lock
+*_stdout.txt
+*.ghost
+*_nvram
+*_rom
+*_flash*
+*_bootflash
+*.bin
+*.image
+*.gns3project
+**_log.txt
+*.zip
