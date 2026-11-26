@@ -1,5 +1,5 @@
 uBridge version 0.9.16 running with Npcap version 1.78, based on libpcap version 1.10.4
-Hypervisor TCP control server started (IP localhost port 63695).
+Hypervisor TCP control server started (IP localhost port 61042).
 UDP tunnel connecting from local port 10581 to IPv4 addresss 127.0.0.1 on port 10580
 UDP tunnel connecting from local port 10577 to IPv4 addresss 127.0.0.1 on port 10576
 Source NIO listener thread for DYNAMIPS-10580-10581 has started
