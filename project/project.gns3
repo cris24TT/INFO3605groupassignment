@@ -85,8 +85,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"355\" height=\"324\"><rect width=\"355\" height=\"324\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": 102,
-                "y": -576,
+                "x": 93,
+                "y": -570,
                 "z": -1
             },
             {
@@ -211,8 +211,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"398\" height=\"641\"><rect width=\"398\" height=\"641\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -88,
-                "y": -48,
+                "x": -245,
+                "y": -3,
                 "z": -1
             },
             {
