@@ -211,8 +211,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"398\" height=\"641\"><rect width=\"398\" height=\"641\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -59,
-                "y": -26,
+                "x": -134,
+                "y": -33,
                 "z": -1
             },
             {
@@ -10359,27 +10359,31 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 311
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 321
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 331
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
@@ -10401,6 +10405,7 @@
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet7",
                             "port_number": 7,
                             "type": "access",
@@ -10439,39 +10444,45 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 311
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 321
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 331
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet4",
                             "port_number": 4,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet5",
                             "port_number": 5,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
@@ -10519,34 +10530,39 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 311
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 331
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet4",
                             "port_number": 4,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 321
                         },
                         {
                             "name": "Ethernet5",
@@ -10686,27 +10702,31 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 311
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 321
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 331
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
@@ -10766,28 +10786,32 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 311
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 321
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 331
                         },
                         {
                             "name": "Ethernet4",
@@ -16378,5 +16402,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.61",
-    "zoom": 20
+    "zoom": 40
 }
