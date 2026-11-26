@@ -292,7 +292,7 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"1740\" height=\"1770\"><rect width=\"1740\" height=\"1770\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -892,
+                "x": -902,
                 "y": 617,
                 "z": -1
             },
@@ -11495,8 +11495,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "bf6c23fd-868f-4b85-a9e2-da0fcf9f7ecf",
                 "width": 66,
-                "x": -787,
-                "y": -162,
+                "x": -786,
+                "y": -156,
                 "z": 1
             },
             {
